@@ -1,0 +1,6 @@
+{
+  "name": "Các Thánh Kính Yêu!",
+  "description": "Trò chơi trắc nghiệm hình ảnh về các vị Thánh Công giáo dành cho người trẻ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
